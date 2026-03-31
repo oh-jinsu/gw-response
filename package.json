@@ -1,5 +1,5 @@
 {
-  "name": "gw-http",
+  "name": "gw-response",
   "version": "0.1.7",
   "types": "./dist/index.d.ts",
   "main": "./dist/index.mjs",
@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oh-jinsu/gw-http.git"
+    "url": "git+https://github.com/oh-jinsu/gw-response.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oh-jinsu/gw-http/issues"
+    "url": "https://github.com/oh-jinsu/gw-response/issues"
   },
-  "homepage": "https://github.com/oh-jinsu/gw-http#readme",
+  "homepage": "https://github.com/oh-jinsu/gw-response#readme",
   "description": "",
   "devDependencies": {
     "tsup": "^8.5.1",
